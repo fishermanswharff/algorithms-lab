@@ -1,0 +1,12 @@
+how to find the index with a search algorithm
+
+you enter a search term into a form field, press enter and the results appear!! hooray, SEARCH!
+
+we need some data to search by. name, id, characters
+
+linear search—march linearly through the list and check for validity of each item
+binary search—
+
+given item to search: name="carlos" in a list 100 items long
+list.length/2 = start point
+item[name="carlos"].index <= 50 ? repeat between 0-50 : repeat between 51-100
